@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quentin.goubert@yahoo.fr
+	name = Quentin Goubert
